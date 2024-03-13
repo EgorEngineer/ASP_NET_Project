@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c6NUEJbigOUMbicd8nGrQoF9FF/L+qekWFf5kFRY0a172+FEwxAPD15fmvGlewLBaJ3hnAd7X3HZ0w3wp1EX4A==",
+  "dgSpecHash": "VViTmayOQirITrKOpOlDmvP3P/BNTNcsrlDlegg05vwRdFQ+TgGArj7a5Mpk8NkxVcCVrvZy8u5vpWus98yPXA==",
   "success": true,
-  "projectFilePath": "H:\\С#\\Mirrra\\Mirrra.csproj",
+  "projectFilePath": "H:\\С#\\ASP_PROJECT\\ASP_NET_Project\\Mirrra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Егор\\.nuget\\packages\\microsoft.aspnet.mvc\\5.3.0\\microsoft.aspnet.mvc.5.3.0.nupkg.sha512",
     "C:\\Users\\Егор\\.nuget\\packages\\microsoft.aspnet.razor\\3.3.0\\microsoft.aspnet.razor.3.3.0.nupkg.sha512",

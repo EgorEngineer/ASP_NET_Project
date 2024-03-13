@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\С#\\Mirrra\\Mirrra.csproj": {}
+    "H:\\С#\\ASP_PROJECT\\ASP_NET_Project\\Mirrra.csproj": {}
   },
   "projects": {
-    "H:\\С#\\Mirrra\\Mirrra.csproj": {
+    "H:\\С#\\ASP_PROJECT\\ASP_NET_Project\\Mirrra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\С#\\Mirrra\\Mirrra.csproj",
+        "projectUniqueName": "H:\\С#\\ASP_PROJECT\\ASP_NET_Project\\Mirrra.csproj",
         "projectName": "Mirrra",
-        "projectPath": "H:\\С#\\Mirrra\\Mirrra.csproj",
+        "projectPath": "H:\\С#\\ASP_PROJECT\\ASP_NET_Project\\Mirrra.csproj",
         "packagesPath": "C:\\Users\\Егор\\.nuget\\packages\\",
-        "outputPath": "H:\\С#\\Mirrra\\obj\\",
+        "outputPath": "H:\\С#\\ASP_PROJECT\\ASP_NET_Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Егор\\AppData\\Roaming\\NuGet\\NuGet.Config",
