@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|h:\\\u0441#\\asp_project\\asp_net_project\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|h:\\\u0441#\\asp_project\\asp_net_project\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|h:\\\u0441#\\asp_project\\asp_net_project\\desk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|solutionrelative:desk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|h:\\\u0441#\\asp_project\\asp_net_project\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|h:\\\u0441#\\asp_project\\asp_net_project\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|h:\\\u0441#\\asp_project\\asp_net_project\\app_data\\dbcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|solutionrelative:app_data\\dbcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\desk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|solutionrelative:desk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|h:\\\u0441#\\asp_project\\asp_net_project\\app_data\\db_settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}|Mirrra.csproj|solutionrelative:app_data\\db_settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,28 +46,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\Menu.cs",
-              "RelativeDocumentMoniker": "Menu.cs",
-              "ToolTip": "H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\Menu.cs",
-              "RelativeToolTip": "Menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T16:36:00.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Desk.cs",
-              "DocumentMoniker": "H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\Desk.cs",
-              "RelativeDocumentMoniker": "Desk.cs",
-              "ToolTip": "H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\Desk.cs",
-              "RelativeToolTip": "Desk.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T16:35:33.861Z",
+              "WhenOpened": "2024-03-21T20:48:40.73Z",
               "EditorCaption": ""
             },
             {
@@ -76,7 +71,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "DB_Settings.json",
+              "DocumentMoniker": "H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\App_Data\\DB_Settings.json",
+              "RelativeDocumentMoniker": "App_Data\\DB_Settings.json",
+              "ToolTip": "H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\App_Data\\DB_Settings.json",
+              "RelativeToolTip": "App_Data\\DB_Settings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-21T18:58:29.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBContent.cs",
+              "DocumentMoniker": "H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\App_Data\\DBContent.cs",
+              "RelativeDocumentMoniker": "App_Data\\DBContent.cs",
+              "ToolTip": "H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\App_Data\\DBContent.cs",
+              "RelativeToolTip": "App_Data\\DBContent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T18:03:53.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Desk.cs",
+              "DocumentMoniker": "H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\Desk.cs",
+              "RelativeDocumentMoniker": "Desk.cs",
+              "ToolTip": "H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\Desk.cs",
+              "RelativeToolTip": "Desk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:35:33.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
@@ -89,26 +123,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAC0AAABAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-17T09:03:49.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "H:\\\u0421#\\ASP_PROJECT\\ASP_NET_Project\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T13:59:08.302Z",
               "EditorCaption": ""

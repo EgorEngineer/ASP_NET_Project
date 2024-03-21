@@ -1,3 +1,8 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Mirrra.App_Data;
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
