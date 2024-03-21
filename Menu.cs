@@ -1,8 +1,6 @@
 ﻿namespace Mirrra
 {
-    public class Desk
+    public class Menu
     {
-
-
     }
 }

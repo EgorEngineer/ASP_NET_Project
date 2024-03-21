@@ -1,6 +1,6 @@
 ﻿namespace Mirrra
 {
-    public class Desk
+    public class Registration
     {
 
 
