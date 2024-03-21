@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "H:\\С#\\ASP_PROJECT\\ASP_NET_Project\\Mirrra.csproj": {}
+    "C:\\_учеба\\ASP_NET_Project\\Mirrra.csproj": {}
   },
   "projects": {
-    "H:\\С#\\ASP_PROJECT\\ASP_NET_Project\\Mirrra.csproj": {
+    "C:\\_учеба\\ASP_NET_Project\\Mirrra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\С#\\ASP_PROJECT\\ASP_NET_Project\\Mirrra.csproj",
+        "projectUniqueName": "C:\\_учеба\\ASP_NET_Project\\Mirrra.csproj",
         "projectName": "Mirrra",
-        "projectPath": "H:\\С#\\ASP_PROJECT\\ASP_NET_Project\\Mirrra.csproj",
-        "packagesPath": "C:\\Users\\Егор\\.nuget\\packages\\",
-        "outputPath": "H:\\С#\\ASP_PROJECT\\ASP_NET_Project\\obj\\",
+        "projectPath": "C:\\_учеба\\ASP_NET_Project\\Mirrra.csproj",
+        "packagesPath": "C:\\Users\\line\\.nuget\\packages\\",
+        "outputPath": "C:\\_учеба\\ASP_NET_Project\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Егор\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\line\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -81,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
