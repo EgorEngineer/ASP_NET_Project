@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bl1n9iyDRWPTPADTUoaX0rftac7Vr/BmZ18Og3m4AolLuPbm5axpuNdK/FikcMiXJmJ/6V/smIwMArcQBGReqg==",
+  "dgSpecHash": "6Ba7IaQRLDwovYvXRjBbN8uJXk/bQZfigzlK83YNeDhoa2mIdxb4ff6rflfDG5sSRwfE6Qya1LHbpNEKSafaLQ==",
   "success": true,
-  "projectFilePath": "C:\\_учеба\\ASP_NET_Project\\Mirrra.csproj",
+  "projectFilePath": "C:\\_учеба\\ASP_NET_Project\\Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\line\\.nuget\\packages\\google.apis\\1.67.0\\google.apis.1.67.0.nupkg.sha512",
     "C:\\Users\\line\\.nuget\\packages\\google.apis.auth\\1.67.0\\google.apis.auth.1.67.0.nupkg.sha512",

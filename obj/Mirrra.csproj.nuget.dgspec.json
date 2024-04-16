@@ -4,12 +4,12 @@
     "C:\\_учеба\\ASP_NET_Project\\Mirrra.csproj": {}
   },
   "projects": {
-    "C:\\_учеба\\ASP_NET_Project\\ASP_NET_Project_DB\\ASP_NET_Project_DB.csproj": {
+    "C:\\_учеба\\ASP_NET_Project\\ASP_NET_Project_DB\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_учеба\\ASP_NET_Project\\ASP_NET_Project_DB\\ASP_NET_Project_DB.csproj",
-        "projectName": "ASP_NET_Project_DB",
-        "projectPath": "C:\\_учеба\\ASP_NET_Project\\ASP_NET_Project_DB\\ASP_NET_Project_DB.csproj",
+        "projectUniqueName": "C:\\_учеба\\ASP_NET_Project\\ASP_NET_Project_DB\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "C:\\_учеба\\ASP_NET_Project\\ASP_NET_Project_DB\\Data.csproj",
         "packagesPath": "C:\\Users\\line\\.nuget\\packages\\",
         "outputPath": "C:\\_учеба\\ASP_NET_Project\\ASP_NET_Project_DB\\obj\\",
         "projectStyle": "PackageReference",
@@ -45,6 +45,11 @@
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "target": "Package",
               "version": "[8.0.3, )"
             },
@@ -106,8 +111,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\_учеба\\ASP_NET_Project\\ASP_NET_Project_DB\\ASP_NET_Project_DB.csproj": {
-                "projectPath": "C:\\_учеба\\ASP_NET_Project\\ASP_NET_Project_DB\\ASP_NET_Project_DB.csproj"
+              "C:\\_учеба\\ASP_NET_Project\\ASP_NET_Project_DB\\Data.csproj": {
+                "projectPath": "C:\\_учеба\\ASP_NET_Project\\ASP_NET_Project_DB\\Data.csproj"
               }
             }
           }

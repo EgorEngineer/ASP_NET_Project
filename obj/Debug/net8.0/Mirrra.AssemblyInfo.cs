@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mirrra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e8f5b0d68470e5e0b91843053cf05e25bb5ba5c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mirrra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mirrra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

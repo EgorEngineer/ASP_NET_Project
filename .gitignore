@@ -1,1 +1,5 @@
 .vs/Mirrra/FileContentIndex/
+obj/
+bin/
+Data/bin/
+Data/obj/

@@ -1,4 +1,6 @@
+using Data;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Internal;
 using Microsoft.Extensions.Configuration;
 using Mirrra;
 
@@ -7,7 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-
+builder.Services.AddDbContextFactory<DataContext>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

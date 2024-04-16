@@ -1,6 +1,0 @@
-C:\_учеба\ASP_NET_Project\ASP_NET_Project_DB\obj\Debug\net8.0\ASP_NET_Project_DB.csproj.AssemblyReference.cache
-C:\_учеба\ASP_NET_Project\ASP_NET_Project_DB\obj\Debug\net8.0\ASP_NET_Project_DB.GeneratedMSBuildEditorConfig.editorconfig
-C:\_учеба\ASP_NET_Project\ASP_NET_Project_DB\obj\Debug\net8.0\ASP_NET_Project_DB.AssemblyInfoInputs.cache
-C:\_учеба\ASP_NET_Project\ASP_NET_Project_DB\obj\Debug\net8.0\ASP_NET_Project_DB.AssemblyInfo.cs
-C:\_учеба\ASP_NET_Project\ASP_NET_Project_DB\obj\Debug\net8.0\ASP_NET_Project_DB.csproj.CoreCompileInputs.cache
-C:\_учеба\ASP_NET_Project\ASP_NET_Project_DB\obj\Debug\net8.0\ASP_NET_Project_DB.sourcelink.json

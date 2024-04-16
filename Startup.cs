@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Mirrra;
+using Data;
+using Microsoft.AspNetCore.Http.HttpResults;
 
 namespace Mirrra
 {
@@ -9,11 +10,8 @@ namespace Mirrra
         void ConfigurationServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-            services.AddDbContext<DBContent>(options => options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<DataContext>(options => options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
             services.AddMvc();
         }
-
-
-
     }
 }
