@@ -21,4 +21,8 @@
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="ASP_NET_Project_DB\ASP_NET_Project_DB.csproj" />
+  </ItemGroup>
+
 </Project>

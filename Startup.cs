@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Mirrra.App_Data;
+using Mirrra;
 
 namespace Mirrra
 {

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mirrra", "Mirrra.csproj", "{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP_NET_Project_DB", "ASP_NET_Project_DB\ASP_NET_Project_DB.csproj", "{D8CEA84E-B81A-4E55-AE13-F90454DDFC4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4C68A6E-A2E6-4F16-8943-1C336C88E3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8CEA84E-B81A-4E55-AE13-F90454DDFC4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8CEA84E-B81A-4E55-AE13-F90454DDFC4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8CEA84E-B81A-4E55-AE13-F90454DDFC4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8CEA84E-B81A-4E55-AE13-F90454DDFC4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

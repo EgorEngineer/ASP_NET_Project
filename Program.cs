@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-using Mirrra.App_Data;
+using Mirrra;
 
 
 var builder = WebApplication.CreateBuilder(args);
